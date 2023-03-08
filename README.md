@@ -8,5 +8,5 @@ Repositorio temporal del curso Ingenieria de Software dictado durante 2023 - 1º
 
 * [Clase 2 - Introducción a Ruby](Slides/Clase_Practica_1_Introduccion_Ruby_Basico.pdf)
 
-* [Código necesario para Clase 2](ClasePractica/Clase1_Ruby)
+* [Código necesario para Clase 2](ClasePractica/RubyBasico)
 
