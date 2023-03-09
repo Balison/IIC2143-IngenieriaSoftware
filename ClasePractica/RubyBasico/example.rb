@@ -7,6 +7,13 @@ def max_number(numbers)
 	### Esta funcion recibe un arreglo de numeros mayores o iguales a 0 y devuelve el mayor
 
 	### ESCRIBIR CODIGO NECESARIO ACA
+  maxi = 0
+
+  for number in numbers
+    maxi = number > maxi ? number : maxi
+  end
+
+  maxi
 	
 end
 
