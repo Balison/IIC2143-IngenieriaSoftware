@@ -10,6 +10,8 @@ Repositorio temporal del curso Ingenieria de Software sección 1 dictado durante
 
 * [Código necesario para Clase 2](ClasePractica/RubyBasico)
 
+* [Clase 3 - Ruby on Rails, mi primer API](Slides/Clase_Practica_2_API_with_Rails.pdf)
+
 
 ## Anuncios
 
